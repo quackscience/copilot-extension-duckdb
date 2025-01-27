@@ -12,7 +12,7 @@
     "console-table-printer": "^2.12.1"
   },
   "devDependencies": {
-    "@types/node": "^22.10.5",
+    "@types/node": "^22.10.10",
     "tsx": "^4.19.2"
   },
   "version": "1.0.0",
